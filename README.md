@@ -17,13 +17,23 @@ Why me? I am a creative thinker capable of resolving problems without conflicts.
 <h4>💻|| Front-End</h4>
 -Javascript<br>
 -React<br>
+-Redux<br>
 -HTML<br>
 -CSS<br>
 -Bootstrap<br>
+-Material UI<br>
+-Tailwind<br>
+
 
 <h4>🗄️|| Database</h4>
 -PostgreSQL<br>
 -SQLite3<br>
+
+<h4>📃|| Extras</h4>
+-Git<br>
+-Trello<br>
+-Jira<br>
+-SCRUM<br>
 
 
 
