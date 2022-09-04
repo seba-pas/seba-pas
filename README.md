@@ -8,12 +8,6 @@ Why me? I am a creative thinker capable of resolving problems without conflicts.
 
 <h2>📃My Skills:</h2>
 
-<h4>🧩|| Back-End</h4>
--NodeJS<br>
--Sequelize<br>
--Express<br>
--Javascript<br>
-
 <h4>💻|| Front-End</h4>
 -Javascript<br>
 -React<br>
@@ -23,6 +17,15 @@ Why me? I am a creative thinker capable of resolving problems without conflicts.
 -Bootstrap<br>
 -Material UI<br>
 -Tailwind<br>
+
+<h4>📱|| Mobile</h4>
+-React Native<br>
+
+<h4>🧩|| Back-End</h4>
+-NodeJS<br>
+-Sequelize<br>
+-Express<br>
+-Javascript<br>
 
 
 <h4>🗄️|| Database</h4>
@@ -38,6 +41,22 @@ Why me? I am a creative thinker capable of resolving problems without conflicts.
 
 
 <h2>🚀Some Projects:</h2> 
+
+<h4>Quizz Time (Mobile)</h4><br> 
+React Native| React Native NAvigation<br>
+A trivia Game where you can select different difficulties and categories to play<br>
+API: dogsApi<br>
+Live Demo: https://pi-dogs-neon.vercel.app/<br>
+Repository: https://github.com/seba-pas/PI-Dogs
+<br>
+
+<h4>Quotes App(Fullstack)</h4><br> 
+React | Redux | NodeJS |ExpressJS | CSS3<br>
+Spa Where you can browse through different famous quotes and show one randomly<br>
+API: dogsApi<br>
+Live Demo: https:/quotes-sebapas.vercel.app/<br>
+Repository: https://github.com/seba-pas/quotesApp
+<br>
 
 <h4>Dogs App(Fullstack)</h4><br> 
 React | Redux | NodeJS | PostgreSQL | Sequelize | ExpressJS | CSS3<br>
