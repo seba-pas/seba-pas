@@ -45,15 +45,15 @@ Why me? I am a creative thinker capable of resolving problems without conflicts.
 <h4>Quizz Time (Mobile)</h4><br> 
 React Native| React Native NAvigation<br>
 A trivia Game where you can select different difficulties and categories to play<br>
-API: dogsApi<br>
-Live Demo: https://pi-dogs-neon.vercel.app/<br>
-Repository: https://github.com/seba-pas/PI-Dogs
+API: opentdb<br>
+
+Repository: https://github.com/seba-pas/quizztimenative
 <br>
 
 <h4>Quotes App(Fullstack)</h4><br> 
 React | Redux | NodeJS |ExpressJS | CSS3<br>
 Spa Where you can browse through different famous quotes and show one randomly<br>
-API: dogsApi<br>
+API: quotegarden<br>
 Live Demo: https:/quotes-sebapas.vercel.app/<br>
 Repository: https://github.com/seba-pas/quotesApp
 <br>
