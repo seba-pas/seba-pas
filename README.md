@@ -68,7 +68,7 @@ Repository: https://github.com/seba-pas/PI-Dogs
 <br>
 <h4>Bring it App(Fullstack)</h4><br>
 React | Redux | NodeJS | PostgreSQL | Sequelize | ExpressJS | CSS3 | Bootstrap | Passport <br>
-E-commerce that conect people with companies who sell products and travelers who can carry those products to their location.<br>
+E-commerce that connects people with companies who sell products and travelers who can carry those products to their location.<br>
 Live Demo: https://bring-it-app.vercel.app/<br>
 Repository: https://github.com/seba-pas/bring-it-app
 <br>
