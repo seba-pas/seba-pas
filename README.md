@@ -32,6 +32,12 @@ Why me? I am a creative thinker capable of resolving problems without conflicts.
 -PostgreSQL<br>
 -SQLite3<br>
 
+<h4>🌐|| Web3</h4>
+- JS Web3<br>
+- Solidity<br>
+- Smart contracts<br>
+- Metamask Integration<br>
+
 <h4>📃|| Extras</h4>
 -Git<br>
 -Trello<br>
@@ -41,6 +47,12 @@ Why me? I am a creative thinker capable of resolving problems without conflicts.
 
 
 <h2>🚀Some Projects:</h2> 
+
+<h4>Krypt (web3)</h4><br> 
+React | Solidity | Metamask integration <br>
+
+<h4>Alky bank wallet (React)</h4><br> 
+React | Redux toolkit<br>
 
 <h4>Quizz Time (Mobile)</h4><br> 
 React Native| React Native NAvigation<br>
