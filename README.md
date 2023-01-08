@@ -45,6 +45,9 @@ Why me? I am a creative thinker capable of resolving problems without conflicts.
 -SCRUM<br>
 
 
+<h2>My Portfolio: https://sebapas-portfolio.vercel.app</h2>
+
+
 
 <h2>🚀Some Projects:</h2> 
 
